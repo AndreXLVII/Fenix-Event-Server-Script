@@ -4,4 +4,6 @@ Script mod to be used in the VII Fenix Friday Event "Battleground" (https://stea
 
 Menages the event rounds and implements a dynamic respawn mechanic, with other little features.
 
+Credits to @eLF and @Walki for parts of the base code
+
 Made for the game Holdfast: Nations at War
